@@ -1,1 +1,6 @@
 .ipynb_checkpoints
+ics_data_fixed/*
+*.zip
+*.html
+.DS_Store
+*.csv
